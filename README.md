@@ -6,11 +6,6 @@ Welcome to the Open Heart to the King project! This is a social media campaign a
 
 Getting Started:
 -----------------
-To get started with the project, you will need to follow these steps:
-
-1. Clone the repository from GitHub.
-2. Install any necessary dependencies.
-3. Run the application.
 
 Features:
 -----------------
@@ -34,4 +29,4 @@ The Open Heart to the King project is licensed under the MIT License. You can fi
 
 Contact Us:
 -----------------
-If you have any questions or concerns about the project, feel free to contact us at openheart2king@example.com. We'd be happy to hear from you!
+If you have any questions or concerns about the project, feel free to contact us at openheart2king@gmail.com. We'd be happy to hear from you!
