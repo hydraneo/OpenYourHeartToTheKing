@@ -1,4 +1,4 @@
-Open Heart to the King
+# Open Heart to the King
 
 Introduction:
 -----------------
