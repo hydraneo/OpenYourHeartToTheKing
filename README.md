@@ -4,8 +4,13 @@ Introduction:
 -----------------
 Welcome to the Open Heart to the King project! This is a social media campaign aimed at encouraging people to express their honest opinions and loyalty towards the kingdom without fear of hypocrisy or judgment.
 
-Getting Started:
+Each letter is stored in a separate file, with the filename indicating the author of the letter.
+
+Letters
 -----------------
+
+[mohamed_azizi.md](letters/mohamed_azizi.md)
+
 
 Features:
 -----------------
@@ -19,9 +24,11 @@ Contributing:
 -----------------
 We welcome contributions from the community to help improve and grow the project. If you're interested in contributing, please follow these steps:
 
-1. Fork the repository on GitHub.
-2. Create a new branch and make your changes.
-3. Submit a pull request for review.
+1. Fork the repository to your own GitHub account.
+2. Create a new Markdown file with the contents of your letter. Use the author's name as the filename (e.g. mohamed_azizi.md).
+3. Add a link to your letter in the "Letters" section of the README.md file.
+4. Commit and push your changes to your forked repository.
+5. Open a pull request to merge your changes into the main repository.
 
 License:
 -----------------
